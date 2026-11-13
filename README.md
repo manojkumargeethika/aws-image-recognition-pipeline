@@ -1,5 +1,9 @@
 # CS643 Project 1 – Image Recognition Using AWS
 
+**Student:** Geethika Manojkumar  
+**Course:** CS643-851  
+**Project:** AWS-Based Car Detection and Text Recognition
+
 ## 1. Project Overview
 
 This project implements a distributed image recognition application using Amazon Web Services (AWS). The application processes images stored in an Amazon S3 bucket, identifies images containing cars using Amazon Rekognition, and performs text recognition on qualifying images.
